@@ -1,0 +1,35 @@
+h2{
+  color: #FF0000;
+  font-style: Algerian;
+
+}
+p{
+  font-family: Cordia New Bold;
+  font-weight: bold;
+  font-size: 10pt;
+
+}
+p::first-letter {
+  font-size: 150%;
+  color: #A4A4A4;
+}
+
+#style {
+  font-family: "sans-serif";
+  font-size: 18pt;
+}
+ul{
+  font-family: monospace;
+  font-weight: bold;
+}
+h3{
+  font-family: Courier;
+  font-weight: bold;
+  text-decoration: overline;
+}
+body{
+  background-color: #FBEFEF;
+}   
+a:link {
+  text-decoration: none ;
+}
